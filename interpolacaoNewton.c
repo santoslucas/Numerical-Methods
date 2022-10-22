@@ -81,3 +81,4 @@ int main(int argc, char *argv[]){
 
     printf("\nP(%.2f) = %.4f\n", variavelX, resultado);
 }
+//.
